@@ -39,6 +39,7 @@ Before beginning the course, ensure that you complete the following steps:
 2. Launch it, agree to license agreement and answer yes to installing additional required components if asked.
 3. Go to the terminal.
 4. Install homebrew, cocoapods and Carthage:
+
    /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
    brew install CocoaPods
    brew install Carthage
