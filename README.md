@@ -37,7 +37,7 @@ You must also install in advance the following software:
 Before beginning the course, ensure that you complete the following steps:
 1. If not already installed, install Xcode 9 from Mac App Store. 
 2. Launch it, agree to license agreement and answer yes to installing additional required components if asked.
-3. Go to the terminal.
+3. Go to the Terminal.
 4. Install homebrew, cocoapods and Carthage:
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
